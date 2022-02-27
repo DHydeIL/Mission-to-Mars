@@ -1,0 +1,14 @@
+table.styletable, table.styletable td, table.styletable th {
+            background-color: #f2f2f2;
+        }
+table.styletable {
+            border-collapse: collapse;
+            width: 100%;
+        }
+table.styletable.st1 td, table.styletable.st1 th {
+            padding: 15px;
+            text-align: center;
+        }
+table.styletable.st1 tr {
+            background-color: #f2f2f2;
+}
